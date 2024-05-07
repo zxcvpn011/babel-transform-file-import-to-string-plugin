@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-file-imports-to-string",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Turn file imports into strings",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,9 @@
     "test": "jest"
   },
   "jest": {
-    "testPathIgnorePatterns": ["__tests__/__fixtures__"]
+    "testPathIgnorePatterns": [
+      "__tests__/__fixtures__"
+    ]
   },
   "repository": {
     "type": "git",
