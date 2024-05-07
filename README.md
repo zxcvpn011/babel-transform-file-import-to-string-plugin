@@ -6,11 +6,11 @@
 
 ## Installation
 
-```sh
-$ npm i -D babel-plugin-transform-file-imports-to-string
+``` bash
+npm i -D babel-plugin-transform-file-imports-to-string
 ```
-```sh
-$ yarn add -D babel-plugin-transform-file-imports-to-string
+``` bash
+yarn add -D babel-plugin-transform-file-imports-to-string
 ```
 ## Usage
 
