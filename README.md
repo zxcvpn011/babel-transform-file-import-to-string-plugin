@@ -7,7 +7,10 @@
 ## Installation
 
 ```sh
-$ npm install babel-plugin-transform-file-imports-to-string
+npm install babel-plugin-transform-file-imports-to-string
+```
+```sh
+yarn add babel-plugin-transform-file-imports-to-string
 ```
 ## Usage
 
