@@ -1,13 +1,13 @@
 - This repo is fork from [babel-plugin-transform-html-import-to-string](https://github.com/yeiniel/babel-plugin-transform-html-import-to-string)
 
-# babel-plugin-transform-file-import-to-string
+# babel-plugin-transform-file-imports-to-string
 
 - import any type of files to string in any environment running babel browser / node / react-native 
 
 ## Installation
 
 ```sh
-$ npm install babel-plugin-transform-file-import-to-string
+$ npm install babel-plugin-transform-file-imports-to-string
 ```
 ## Usage
 

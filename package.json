@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transform-file-import-to-string",
+  "name": "babel-plugin-transform-file-imports-to-string",
   "version": "2.0.0",
   "description": "Turn file imports into strings",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zxcvpn/babel-plugin-transform-file-import-to-string.git"
+    "url": "git+https://github.com/zxcvpn/babel-plugin-transform-file-imports-to-string.git"
   },
   "keywords": [
     "babel-plugin",
@@ -23,9 +23,9 @@
   "author": "zxcvpn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zxcvpn/babel-plugin-transform-file-import-to-string/issues"
+    "url": "https://github.com/zxcvpn/babel-plugin-transform-file-imports-to-string/issues"
   },
-  "homepage": "https://github.com/zxcvpn/babel-plugin-transform-file-import-to-string#readme",
+  "homepage": "https://github.com/zxcvpn/babel-plugin-transform-file-imports-to-string#readme",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "babel-plugin-tester": "^10.0.0",
