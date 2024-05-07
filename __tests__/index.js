@@ -6,7 +6,7 @@ import transformHtmlImportToString from '..'
 
 pluginTester({
   plugin: transformHtmlImportToString,
-  pluginName: 'transform-html-import-to-string',
+  pluginName: 'transform-file-import-to-string',
   fixtures: path.join(__dirname, '__fixtures__'),
   tests: {
     /* your test objects */

@@ -1,2 +1,2 @@
 
-import html from '../code.html';
+import js from '!!file-loader!../code.js';

@@ -1,2 +1,2 @@
-const html = "<p>some parragraph</p>";
-export { html };
+const js = "const str = 'Hello, World !!';\r\nconsole.log(str);\r\n";
+export { js };

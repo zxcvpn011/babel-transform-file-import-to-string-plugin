@@ -1,2 +1,2 @@
 
-export * as html from '../code.html';
+export * as js from '!!file-loader!../code.js';

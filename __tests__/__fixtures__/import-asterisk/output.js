@@ -1,1 +1,1 @@
-const html = "<p>some parragraph</p>";
+const js = "const str = 'Hello, World !!';\r\nconsole.log(str);\r\n";
