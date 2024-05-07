@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-$ npm install babel-plugin-transform-html-import-to-string
+$ npm install babel-plugin-transform-file-import-to-string
 ```
 ## Usage
 
