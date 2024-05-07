@@ -1,4 +1,4 @@
-- This repo is fork from [babel-plugin-transform-html-import-to-string](https://github.com/yeiniel/babel-plugin-transform-html-import-to-string)
+- This plugin is fork from [babel-plugin-transform-html-import-to-string](https://github.com/yeiniel/babel-plugin-transform-html-import-to-string)
 
 # babel-plugin-transform-file-imports-to-string
 
