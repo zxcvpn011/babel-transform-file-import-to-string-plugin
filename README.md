@@ -17,21 +17,21 @@ $ npm install babel-plugin-transform-file-imports-to-string
 
 ```json
 {
-  "plugins": ["transform-file-import-to-string"]
+  "plugins": ["transform-file-imports-to-string"]
 }
 ```
 
 ### Via CLI
 
 ```sh
-$ babel --plugins transform-file-import-to-string script.js
+$ babel --plugins transform-file-imports-to-string script.js
 ```
 
 ### Via Node API
 
 ```javascript
 require("babel-core").transform("code", {
-  plugins: ["transform-file-import-to-string"]
+  plugins: ["transform-file-imports-to-string"]
 });
 ```
 
